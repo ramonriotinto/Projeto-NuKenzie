@@ -16,4 +16,4 @@ Ao finalizar o download das dependências, inicie a visualização do projeto em
 
 ### Link Vercel:
 
-https://nu-kenzie-ramonriotinto.vercel.app
+https://projeto-nu-kenzie-ramonriotinto.vercel.app
